@@ -1,0 +1,7 @@
+main: fr.sad.earthskyitems.Main
+name: EarthItems
+author: SAD
+version: 1.0
+
+commands:
+  items:
